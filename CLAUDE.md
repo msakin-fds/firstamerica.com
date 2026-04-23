@@ -1,0 +1,3 @@
+# firstamerica.com
+
+@../CLAUDE.md
